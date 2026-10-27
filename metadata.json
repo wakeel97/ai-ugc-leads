@@ -1,0 +1,7 @@
+{
+  "name": "AI UGC DTC Lead Scraper Engine",
+  "description": "High-performance Python automation and lead scraping suite for AI UGC ad agencies targeting Shopify and DTC brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
